@@ -1,0 +1,9 @@
+$brand-main: #ff3956;
+$brand-sec: #fa8b9b;
+$brand-therd: #F8AD47;
+$brand-danger: #FF3956;
+$brand-secondary: #53CCD7;
+$btn-main-color-dark: darken($brand-main, 25%);
+$btn-sec-color-dark: darken($brand-sec, 25%);
+$btn-danger-color-dark: darken($brand-danger, 25%);
+$btn-form-control-focus-dark: $btn-main-color-dark;
